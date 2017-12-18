@@ -14,12 +14,10 @@ namespace ParallelClassExamples
 {
     class IOBoundParallelTaskExecution
     {
-        // to run this class, enable the main method, disable main methods of other classes 
-        // of the same project
-        /* public static void Main()
+         public static void Main()
          {
              ShowWordCount();
-         } */
+         } 
 
         public static void ShowWordCount()
         {
