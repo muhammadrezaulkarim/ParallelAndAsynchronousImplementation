@@ -9,9 +9,8 @@ namespace ParallelClassExamples
 {
     class FindPrimeUsingParallelForLoop
     {
-        // to run this class, enable the main method, disable main methods of other classes 
-        // of the same project
-        static void Main(string[] args)
+
+        public static void Main(string[] args)
            {
                 GeneratePrimeNumbers();
            } 
