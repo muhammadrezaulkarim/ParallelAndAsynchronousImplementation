@@ -7,12 +7,10 @@ namespace ParallelClassExamples
 {
     class FindPrimeUsingCPUBoundRunTaskThread
     {
-        // to run this class, enable the main method, disable main methods of other classes 
-        // of the same project
-        /* public static void Main(string[] args)
+         public static void Main(string[] args)
          {
              GeneratePrimeNumbers();
-         } */
+         } 
 
         private static void GeneratePrimeNumbers()
         {
