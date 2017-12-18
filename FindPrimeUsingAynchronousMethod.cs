@@ -11,10 +11,10 @@ namespace ParallelClassExamples
     {
         // to run this class, enable the main method, disable main methods of other classes 
         // of the same project
-        /*  public static void Main(string[] args)
+          public static void Main(string[] args)
           {
               GeneratePrimeNumbersAsync();
-            } */
+            } 
         private static async void GeneratePrimeNumbersAsync()
         {
             Stopwatch elapsedTimeTracker = new Stopwatch();
